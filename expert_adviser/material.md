@@ -1,1 +1,5 @@
-[Guide to writing a beginers level EA](https://www.mql5.com/en/articles/100)
+* [Guide to writing a beginers level EA](https://www.mql5.com/en/articles/100)
+* [Learn MQL5 for free(beginer to advanced)](https://learnmql5.com/courses/133054/lectures/1996170)
+* [learn MQL5 by building projects 1](https://www.youtube.com/watch?v=_PYOqjXh8NY)
+* [Beginers tutorial on MQL5](https://www.youtube.com/playlist?list=PLkJBzGTf3yNIw1JWW6A_atIuwCkXbCEpA)
+* [Advanced MQL5 techniques](https://www.youtube.com/watch?v=uWO102qfgAI&list=PLv-cA-4O3y95e9N3saUmDpQGKR11k-v1B)
